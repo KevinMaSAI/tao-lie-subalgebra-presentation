@@ -1,0 +1,14 @@
+n=9 k=1  dim F_big=1  rank pi(I)=0  dim K/h=1  maxRSS=103MB
+n=9 k=2  dim F_big=255  rank pi(I)=8  dim K/h=247  maxRSS=103MB
+n=9 k=3  dim F_big=6050  rank pi(I)=1757  dim K/h=4293  maxRSS=109MB
+n=9 k=4  dim F_big=46620  rank pi(I)=31001  dim K/h=15619  maxRSS=204MB
+n=9 k=5  dim F_big=144144  rank pi(I)=136085  dim K/h=8059  maxRSS=403MB
+n=9 k=6  dim F_big=166320  rank pi(I)=165863  dim K/h=457  maxRSS=403MB
+n=9 k=7  dim F_big=60480  rank pi(I)=60479  dim K/h=1  maxRSS=403MB
+n=9 k=8  dim F_big=0  rank pi(I)=0  dim K/h=0  maxRSS=403MB
+n=9 k=9  dim F_big=0  rank pi(I)=0  dim K/h=0  maxRSS=403MB
+time 554s
+
+real	9m14.311s
+user	9m13.164s
+sys	0m1.036s

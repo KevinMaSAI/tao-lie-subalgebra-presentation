@@ -1,0 +1,16 @@
+relators r_{i,j,S} (paper) == R_{i,j} (DST Prop 2.4.2) for all n<=6, i!=j: OK
+n=1: dim U(k)_[n] by D-degree a=0..0: [1]  total 1  n! = 1
+n=2: dim U(k)_[n] by D-degree a=0..1: [1, 1]  total 2  n! = 2
+n=3: dim U(k)_[n] by D-degree a=0..2: [1, 4, 1]  total 6  n! = 6
+n=4: dim U(k)_[n] by D-degree a=0..3: [1, 11, 11, 1]  total 24  n! = 24
+n=5: dim U(k)_[n] by D-degree a=0..4: [1, 26, 66, 26, 1]  total 120  n! = 120
+n=6: dim U(k)_[n] by D-degree a=0..5: [1, 57, 302, 302, 57, 1]  total 720  n! = 720
+LM p_1(q) = [1]
+LM p_2(q) = [1, 1]
+LM p_3(q) = [1, 4, 1]
+LM p_4(q) = [1, 11, 11, 1]
+LM p_5(q) = [1, 26, 66, 26, 1]
+LM p_6(q) = [1, 57, 302, 302, 57, 1]
+LM p_7(q) = [1, 120, 1191, 2416, 1191, 120, 1]
+EGF(U(g)) * e^{-xy} |_{z=1,y=q} - (q-1)/(q-e^{(q-1)x}) simplifies to: 0
+series difference through x^9: 0

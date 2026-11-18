@@ -1,0 +1,3 @@
+trial 0 dim I_3 = 108  non-normal words = 92 NOT PBW
+trial 1 dim I_3 = 108  non-normal words = 94 NOT PBW
+trial 2 dim I_3 = 108  non-normal words = 95 NOT PBW

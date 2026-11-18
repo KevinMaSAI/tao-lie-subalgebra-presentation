@@ -1,0 +1,25 @@
+overlap D_{3}D_{2}D_{1}
+  left  step : D_{2}D_{3}D_{1}
+  right step : D_{3}D_{1}D_{2}
+  NF(left)   : D_{1}D_{2}D_{3}
+  NF(right)  : D_{1}D_{2}D_{3}
+  equal      : True
+overlap E_{3}D_{2}D_{1}
+  left  step : D_{2}E_{3}D_{1} - D_{3}E_{2}D_{1} + E_{2}D_{3}D_{1}
+  right step : E_{3}D_{1}D_{2}
+  NF(left)   : D_{1}D_{2}E_{3} - D_{1}D_{3}E_{2} + D_{1}E_{2}D_{3} - D_{3}E_{1}D_{2} + E_{1}D_{2}D_{3}
+  NF(right)  : D_{1}D_{2}E_{3} - D_{1}D_{3}E_{2} + D_{1}E_{2}D_{3} - D_{3}E_{1}D_{2} + E_{1}D_{2}D_{3}
+  equal      : True
+overlap E_{3}E_{2}D_{1}
+  left  step : E_{2}E_{3}D_{1}
+  right step : E_{3}D_{1}E_{2} - E_{3}D_{2}E_{1} + E_{3}E_{1}D_{2}
+  NF(left)   : D_{1}E_{2}E_{3} - D_{2}E_{1}E_{3} + E_{1}D_{2}E_{3} + E_{1}E_{2}D_{3} - E_{2}D_{3}E_{1}
+  NF(right)  : D_{1}E_{2}E_{3} - D_{2}E_{1}E_{3} + E_{1}D_{2}E_{3} + E_{1}E_{2}D_{3} - E_{2}D_{3}E_{1}
+  equal      : True
+overlap E_{3}E_{2}E_{1}
+  left  step : E_{2}E_{3}E_{1}
+  right step : E_{3}E_{1}E_{2}
+  NF(left)   : E_{1}E_{2}E_{3}
+  NF(right)  : E_{1}E_{2}E_{3}
+  equal      : True
+ALL RESOLVABLE

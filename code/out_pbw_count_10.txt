@@ -1,0 +1,22 @@
+leading words (multilinear patterns typeA,typeB,idxA>idxB): [('D', 'D', True), ('E', 'D', True), ('E', 'E', True)]
+U(g) multilinear n=1 by D-degree: [1, 1] total 2
+U(g) multilinear n=2 by D-degree: [1, 3, 1] total 5
+U(g) multilinear n=3 by D-degree: [1, 7, 7, 1] total 16
+U(g) multilinear n=4 by D-degree: [1, 15, 33, 15, 1] total 65
+U(g) multilinear n=5 by D-degree: [1, 31, 131, 131, 31, 1] total 326
+U(g) multilinear n=6 by D-degree: [1, 63, 473, 883, 473, 63, 1] total 1957
+U(g) multilinear n=7 by D-degree: [1, 127, 1611, 5111, 5111, 1611, 127, 1] total 13700
+U(g) multilinear n=8 by D-degree: [1, 255, 5281, 26799, 44929, 26799, 5281, 255, 1] total 109601
+U(g) multilinear n=9 by D-degree: [1, 511, 16867, 131275, 344551, 344551, 131275, 16867, 511, 1] total 986410
+U(g) multilinear n=10 by D-degree: [1, 1023, 52905, 612507, 2400489, 3730251, 2400489, 612507, 52905, 1023, 1] total 9864101
+log(PBW count EGF) - (x(y+z) - log(1-Y)) = 0
+g multilinear n=1 by D-degree: [1, 1]
+g multilinear n=2 by D-degree: [0, 1, 0]
+g multilinear n=3 by D-degree: [0, 1, 1, 0]
+g multilinear n=4 by D-degree: [0, 1, 4, 1, 0]
+g multilinear n=5 by D-degree: [0, 1, 11, 11, 1, 0]
+g multilinear n=6 by D-degree: [0, 1, 26, 66, 26, 1, 0]
+g multilinear n=7 by D-degree: [0, 1, 57, 302, 302, 57, 1, 0]
+g multilinear n=8 by D-degree: [0, 1, 120, 1191, 2416, 1191, 120, 1, 0]
+g multilinear n=9 by D-degree: [0, 1, 247, 4293, 15619, 15619, 4293, 247, 1, 0]
+g multilinear n=10 by D-degree: [0, 1, 502, 14608, 88234, 156190, 88234, 14608, 502, 1, 0]

@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+message: If you use this preprint or the accompanying code, please cite it as below.
+title: "The relations of a Lie subalgebra considered by Tao: a complete presentation"
+authors:
+  - family-names: Ma
+    given-names: Qiyuan
+    affiliation: Shanghai Jiao Tong University
+    orcid: "https://orcid.org/0009-0000-9532-0821"
+date-released: "2026-11-16"
+version: "1.1"
+license: CC-BY-4.0
+url: "https://hexagonmath.org/2611.00542v1"
+identifiers:
+  - type: url
+    value: "https://hexagonmath.org/2611.00542v1"
+    description: Hexagon preprint hexagon:2611.00542v1
+  - type: url
+    value: "https://airaxiv.com/papers/view/2611.0028/"
+    description: AiraXiv 2611.0028
+keywords:
+  - Lie algebras
+  - presentations by generators and relations
+  - free Lie algebras
+  - universal enveloping algebra
+  - Gröbner basis
+  - diamond lemma
+  - PBW basis
+  - Hilbert series
+  - Losev–Manin spaces
+  - Eulerian numbers
+preferred-citation:
+  type: generic
+  title: "The relations of a Lie subalgebra considered by Tao: a complete presentation"
+  authors:
+    - family-names: Ma
+      given-names: Qiyuan
+      affiliation: Shanghai Jiao Tong University
+      orcid: "https://orcid.org/0009-0000-9532-0821"
+  year: 2026
+  month: 11
+  version: "1.1"
+  url: "https://hexagonmath.org/2611.00542v1"
+  license: CC-BY-4.0
+  notes: "Hexagon preprint hexagon:2611.00542v1; AiraXiv 2611.0028. Claims a complete answer to MathOverflow 464808. Preprint, not independently reviewed by a human expert. Dimension/Hilbert-series/PBW identifications equivalent to Losev–Manin and Dotsenko–Shadrin–Tamaroff must not be cited as new."

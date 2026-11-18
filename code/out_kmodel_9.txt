@@ -1,0 +1,2 @@
+exit 143 elapsed 842s
+n=9 mod-p run killed at ~14 CPU-min / 1.67GB RSS (memory safety); superseded by the general proof

@@ -1,0 +1,46 @@
+g 1 Ddeg 0 dim g = 1
+g 1 Ddeg 1 dim g = 1
+h 1 k 1 dim h image = 1
+g 2 Ddeg 0 dim g = 0
+g 2 Ddeg 1 dim g = 1
+g 2 Ddeg 2 dim g = 0
+h 2 k 1 dim h image = 1
+h 2 k 2 dim h image = 0
+g 3 Ddeg 0 dim g = 0
+g 3 Ddeg 1 dim g = 1
+g 3 Ddeg 2 dim g = 1
+g 3 Ddeg 3 dim g = 0
+h 3 k 2 dim h image = 1
+h 3 k 3 dim h image = 0
+g 4 Ddeg 0 dim g = 0
+g 4 Ddeg 1 dim g = 1
+g 4 Ddeg 2 dim g = 4
+g 4 Ddeg 3 dim g = 1
+g 4 Ddeg 4 dim g = 0
+h 4 k 2 dim h image = 3
+h 4 k 3 dim h image = 1
+h 4 k 4 dim h image = 0
+g 5 Ddeg 0 dim g = 0
+g 5 Ddeg 1 dim g = 1
+g 5 Ddeg 2 dim g = 11
+g 5 Ddeg 3 dim g = 11
+g 5 Ddeg 4 dim g = 1
+g 5 Ddeg 5 dim g = 0
+h 5 k 3 dim h image = 10
+h 5 k 4 dim h image = 1
+h 5 k 5 dim h image = 0
+g 6 Ddeg 0 dim g = 0
+g 6 Ddeg 1 dim g = 1
+g 6 Ddeg 2 dim g = 26
+g 6 Ddeg 3 dim g = 66
+g 6 Ddeg 4 dim g = 26
+g 6 Ddeg 5 dim g = 1
+g 6 Ddeg 6 dim g = 0
+h 6 k 3 dim h image = 30
+h 6 k 4 dim h image = 25
+h 6 k 5 dim h image = 1
+h 6 k 6 dim h image = 0
+
+real	0m3.105s
+user	0m3.084s
+sys	0m0.020s
