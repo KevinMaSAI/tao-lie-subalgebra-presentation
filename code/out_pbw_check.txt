@@ -1,0 +1,18 @@
+== U(g) number of quadratic relations: 9
+('type', 'DE', 1) dim I_3 = 104  non-normal words = 104 PBW
+('type', 'DE', -1) dim I_3 = 104  non-normal words = 104 PBW
+('type', 'ED', 1) dim I_3 = 104  non-normal words = 104 PBW
+('type', 'ED', -1) dim I_3 = 104  non-normal words = 104 PBW
+('index', 'DE', 1) dim I_3 = 104  non-normal words = 104 PBW
+('index', 'DE', -1) dim I_3 = 104  non-normal words = 104 PBW
+('index', 'ED', 1) dim I_3 = 104  non-normal words = 104 PBW
+('index', 'ED', -1) dim I_3 = 104  non-normal words = 104 PBW
+== A^! number of quadratic relations: 27
+('type', 'DE', 1) dim I_3 = 212  non-normal words = 212 PBW
+('type', 'DE', -1) dim I_3 = 212  non-normal words = 212 PBW
+('type', 'ED', 1) dim I_3 = 212  non-normal words = 212 PBW
+('type', 'ED', -1) dim I_3 = 212  non-normal words = 212 PBW
+('index', 'DE', 1) dim I_3 = 212  non-normal words = 212 PBW
+('index', 'DE', -1) dim I_3 = 212  non-normal words = 212 PBW
+('index', 'ED', 1) dim I_3 = 212  non-normal words = 212 PBW
+('index', 'ED', -1) dim I_3 = 212  non-normal words = 212 PBW
